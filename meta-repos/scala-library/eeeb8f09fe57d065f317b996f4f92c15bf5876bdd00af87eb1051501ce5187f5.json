@@ -1,0 +1,35 @@
+{
+  "id" : "scala-library",
+  "variants" : [ "7c6f926a505da5bb9deacbf4051987392cef6c5ecd9155b712a9d6108c8e9916", "a76488d600d94593a6964f4bd5d71b9396c0b578db2d51e074c58fb1524d3f98", "6a0b8c48430d2e092a95e9b43db8ed433880c837fb42ee0f710c7ecf8269228b", "ad3c049415da78a8073d93c66d035d371f6c41aab3f0dc7abf10a3f36de55369", "a1cc2c178855e8c1ebf105ee15dae90954143921df28975aa53325d156f80aad", "0e644a738ef39283e4b69a859e75d13e728683aea4699a38984748186c9d30fb", "91ad97eb8612cc8dbdea76ce6d2656a0058e90ef58db1916c35316c59501a952", "cfbcb53f34a43bd88b90217019088eec6580d9d2f0558dfe0bcedc3be81e30fb", "0116dbe175c86720c234bcbb4633baf56a4313fbf824227b2dcc4679afaef011", "01bb324c831edca76d1e8de174ae3abc9bb956a9ec79e667fba1022ea52f352f", "aa02460446baf78ecde3ab9e9cbba10ee3246432f85d8eb7124d7a1641f76bbf" ],
+  "configurations" : [ {
+    "id" : "test",
+    "repositories" : [ ]
+  }, {
+    "id" : "provided",
+    "repositories" : [ ]
+  }, {
+    "id" : "system",
+    "repositories" : [ ]
+  }, {
+    "id" : "master",
+    "repositories" : [ ]
+  }, {
+    "id" : "optional",
+    "repositories" : [ ]
+  }, {
+    "id" : "compile",
+    "repositories" : [ ]
+  }, {
+    "id" : "default",
+    "repositories" : [ ]
+  }, {
+    "id" : "sources",
+    "repositories" : [ ]
+  }, {
+    "id" : "javadoc",
+    "repositories" : [ ]
+  }, {
+    "id" : "runtime",
+    "repositories" : [ ]
+  } ]
+}
